@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/jackiejpeng/Test/_apis/build/status/jackiejpeng.pipelines-java?branchName=master)](https://dev.azure.com/jackiejpeng/Test/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
